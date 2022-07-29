@@ -1,16 +1,16 @@
-### Hi there 👋
+## Namaste :pray: I'm Sainath :smiley:
 
-<!--
-**its-sainath/its-sainath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## WIP...!!
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - I am an Open Source enthusiast interested to collaborate in various areas of techs listed below.
+ - I've been working in Enterprise world and improving FinTech backend systems from last 3+ years using Java and other techs.
+ - Let me know How can I be more useful to you.
+ 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/> </a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="50" height="50"/> </a>
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353950/kafka.svg" alt="Apache Kafka" width="50" height="50"/> </a>
+</p>
